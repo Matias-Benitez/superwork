@@ -1,0 +1,18 @@
+.bg-imagen{
+    background-image: url(./assets/rectangle-red.png);
+}
+
+#slider {
+    width: 2000px;
+    height: 56px;
+    background-image: url(./src/assets/Slider.png);
+    background-size: 100% 100%;
+    animation: slider 30s infinite linear;
+    
+}
+
+@keyframes slider {
+    to {
+        background-position: 2000px;
+    }
+}

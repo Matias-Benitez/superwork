@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'ProductSansBold';
+    src: url(./fonts/ProductSans-Bold.ttf) format('trueType');
+    font-style: bold;
+}
+@font-face {
+    font-family: 'ProductSansRegular';
+    src: url(./fonts/ProductSans-Regular.ttf) format('trueType');
+    font-style: normal;
+}
