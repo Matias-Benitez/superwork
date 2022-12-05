@@ -23,9 +23,9 @@ function App() {
       <Colabora/>
       <Contenido />
       <Membresia />
-      {/* <Cuadros />
+      <Cuadros />
       <Beneficios />
-      <Unite/>
+      {/* <Unite/>
       <Membresia1/>
       <Footer/> */}
     </div>

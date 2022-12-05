@@ -6,7 +6,7 @@ function Membresia() {
     <>
         <div className='max-sm:w-10/12 container mx-auto flex bg-[#F07167] rounded-3xl mt-28 mb-28 max-sm:px-4'>
             <div className='w-1/2 md:ml-20 max-sm:w-full'>
-                <div className='text-5xl max-sm:text-3xl tracking-wide font-ProductSansBold leading-tight mt-12 max-sm:mt-8'>
+                <div className='text-5xl max-sm:text-xl tracking-wide font-ProductSansBold leading-tight mt-12 max-sm:mt-8'>
                     Una membresía a la medida de tus necesidades
                 </div>
                 <div className='mt-12 max-sm:mt-8 max-sm:pb-8'>

@@ -37,7 +37,7 @@ const Header = () => {
         <Link>
           Ingresar
         </Link>
-        <a href="#aboutUs" className="relative border border-black hover:bg-[#FFC28A] font-ProductSansRegular rounded-3xl -top-1 -left-1 hover:top-0 hover:left-0 transition-all bg-[#FED9B7] py-3 px-5 before:absolute before:top-1 before:left-1 before:hover:top-0 before:hover:left-0 before:w-full before:h-full before:border-8 before:border-black before:-z-10 before:transition-all before:rounded-3xl">
+        <a href="#aboutUs" className="hover:bg-[#FFC28A] hover:text-black font-ProductSansRegular rounded-xl transition-all bg-[#1A1A1A] text-[#FDFCDC] py-3 px-5">
           Ser miembro
         </a>
       </nav>

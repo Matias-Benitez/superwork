@@ -5,7 +5,7 @@ function Contenido() {
     <>
         <div className='container mx-auto flex max-sm:grid'>
         <div className='w-1/2 mt-24 py-4 flex justify-center px-8 max-sm:hidden'>
-            <img src="./src/assets/cuadro1.svg" alt="" />
+            <img src="./src/assets/cuadro1.png" alt="" />
         </div>
         <div className='w-1/2 mt-12 max-sm:w-full max-sm:px-10'>
             <h2 className='text-5xl max-sm:text-3xl tracking-wide font-ProductSansBold leading-tight md:mt-24'>
@@ -15,7 +15,7 @@ function Contenido() {
                 Los trabajadores independientes necesitan saber en dónde encontrar las mejores herramientas, recursos, oportunidades laborales y eventos online y presenciales. ¡El área de workshop de nuestra comunidad reúne todo esto en un solo lugar!
             </p>
             <div className='flex justify-center md:hidden'>
-            <img src="./src/assets/cuadro1.svg" alt="" />
+            <img src="./src/assets/cuadro1.png" alt="" />
         </div>
         </div>
         
