@@ -15,6 +15,9 @@
 .sombra {
     box-shadow: 5px 5px black;
 }
+.sombra2 {
+    box-shadow: 10px 10px black;
+}
 
 .cuadromd {
     background-image: url(./src/assets/cuadromd.png);
@@ -27,3 +30,4 @@
         background-image: url(./src/assets/cuadrosm.png);
     }
 }
+

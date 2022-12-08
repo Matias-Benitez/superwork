@@ -23,7 +23,6 @@ function Beneficios() {
                     <p className='text-lg font-ProductSansRegular mt-5'>Conocé nuevas personas, colaborá en proyectos y obtené nuevos clientes.</p>
                 </div>
             </div>
-
             <div className='bg-white w-80 h-96 border border-black rounded-xl mt-10 sombra'>
                 <div className='w-full text-center px-8 mt-8'>
                     <img className='w-20 m-auto pt-4' src="./src/assets/icon3.png" alt="" />

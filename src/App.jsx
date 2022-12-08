@@ -25,9 +25,9 @@ function App() {
       <Membresia />
       <Cuadros />
       <Beneficios />
-      {/* <Unite/>
+      <Unite/>
       <Membresia1/>
-      <Footer/> */}
+      <Footer/>
     </div>
   )
 }
