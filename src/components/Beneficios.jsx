@@ -2,7 +2,7 @@ import React from 'react'
 
 function Beneficios() {
   return (
-    <div>
+    <div id='beneficios'>
         <div className='container mx-auto'>
             <h3 className='uppercase mt-24 py-4 max-sm:text-xl text-2xl text-[#00AFB9] font-ProductSansBold text-center'>Beneficios</h3>
             <h2 className='text-5xl max-sm:text-3xl 2xl:ml-96 md:ml-80 md:w-2/4 max-sm:m-auto text-center tracking-wide font-ProductSansBold leading-tight'>Obtené las mejores ventajas de ser freelance en nuestro espacio</h2>

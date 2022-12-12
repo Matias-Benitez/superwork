@@ -3,7 +3,7 @@ import Button from './Button'
 
 function Membresia1() {
   return (
-    <div className='md:mt-52'>
+    <div id='membresia' className='md:mt-52'>
         <div className='container mx-auto px-6'>
             <h3 className='uppercase mt-24 py-4 max-sm:text-xl text-2xl text-[#00AFB9] font-ProductSansBold text-center '>Membresía</h3>
             <h2 className='text-5xl max-sm:text-3xl m-auto text-center tracking-wide font-ProductSansBold leading-tight'>No pierdas más tiempo, empeza a crecer</h2>

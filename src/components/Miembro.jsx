@@ -2,7 +2,7 @@ import React from 'react'
 
 function Miembro() {
   return (
-    <div className='container mx-auto flex max-sm:grid'>
+    <div id='miembro' className='container mx-auto flex max-sm:grid'>
         <div className='w-1/2 mt-24 py-4 flex justify-center max-sm:hidden'>
             <img src="./src/assets/miembro.png" alt="" />
         </div>

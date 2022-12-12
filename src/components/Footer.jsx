@@ -2,10 +2,12 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='w-full h-auto bg-[#0081A7] mt-11 max-sm:px-6'>
+    <div id='contacto' className='w-full h-auto bg-[#0081A7] mt-11 max-sm:px-6'>
       <div className='container mx-auto text-[#FDFCDC]'>
         <div className='text-5xl 2xl:text-6xl font-ProductSansBold py-16'>
+        <a href="#" className="relative">
           superwork
+        </a>
         </div>
 
         <div className='grid md:grid-cols-4 '>
