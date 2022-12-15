@@ -1,4 +1,4 @@
-import Beneficios from "./components/Beneficios"
+import Beneficios from "./components/Beneficios" 
 import Colabora from "./components/Colabora"
 import Contenido from "./components/Contenido"
 import Cuadros from "./components/Cuadros"
