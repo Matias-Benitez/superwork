@@ -11,21 +11,21 @@ function Beneficios() {
         <div className='container mx-auto flex max-sm:grid md:gap-20 justify-center pt-8 pb-20 '>
             <div className='bg-white w-80 h-96 border border-black rounded-xl mt-10 sombra'>
                 <div className='w-full text-center px-8 mt-8'>
-                    <img className='w-20 m-auto pt-4' src="./src/assets/icon.png" alt="" />
+                    <img className='w-20 m-auto pt-4' src="https://i.postimg.cc/W4Wn4s6m/superwork-independencia.png" alt="Independencia en Superwork" />
                     <h4 className='text-2xl font-ProductSansBold mt-5'>Independencia</h4>
                     <p className='text-lg font-ProductSansRegular mt-5'>Libertad de trabajar desde dónde y cuando quieras.</p>
                 </div>      
             </div>
             <div className='bg-white w-80 h-96 border border-black rounded-xl mt-10 sombra'>
                 <div className='w-full text-center px-8 mt-8'>
-                    <img className='w-20 m-auto pt-4' src="./src/assets/icon2.png" alt="" />
+                    <img className='w-20 m-auto pt-4' src="https://i.postimg.cc/RV5ThsfY/superwork-profesionales.png" alt="Contactá con profesionales" />
                     <h4 className='text-2xl font-ProductSansBold mt-5'>Conectá con profesionales</h4>
                     <p className='text-lg font-ProductSansRegular mt-5'>Conocé nuevas personas, colaborá en proyectos y obtené nuevos clientes.</p>
                 </div>
             </div>
             <div className='bg-white w-80 h-96 border border-black rounded-xl mt-10 sombra'>
                 <div className='w-full text-center px-8 mt-8'>
-                    <img className='w-20 m-auto pt-4' src="./src/assets/icon3.png" alt="" />
+                    <img className='w-20 m-auto pt-4' src="https://i.postimg.cc/kXQvbQvg/superwork-negocio.png" alt="Impulsá tu negocio" />
                     <h4 className='text-2xl font-ProductSansBold mt-5'>Impulsá tu negocio</h4>
                     <p className='text-lg font-ProductSansRegular mt-5'>Compartí tus ideas y generá oportunidades de trabajo e innovación.</p>
                 </div>

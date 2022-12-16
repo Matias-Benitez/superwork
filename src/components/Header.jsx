@@ -32,9 +32,9 @@ const Header = () => {
         <a href="#contacto" className="inline-block relative transition-all duration-300 before:content-[''] before:absolute before:-bottom-0.5 before:left-0 before:w-0 before:h-0.5 before:rounded-full before:opacity-0 before:transition-all before:duration-500 before:bg-gradient-to-r before:from-black before:via-black before:to-black hover:before:w-full hover:before:opacity-100">Contacto
         </a>
         </span>
-        <a href="#ingresar" className="inline-block relative transition-all duration-300 before:content-[''] before:absolute before:-bottom-0.5 before:left-0 before:w-0 before:h-0.5 before:rounded-full before:opacity-0 before:transition-all before:duration-500 before:bg-gradient-to-r before:from-black before:via-black before:to-black hover:before:w-full hover:before:opacity-100 ">Ingresar
+        <a href="#membresia" className="inline-block relative transition-all duration-300 before:content-[''] before:absolute before:-bottom-0.5 before:left-0 before:w-0 before:h-0.5 before:rounded-full before:opacity-0 before:transition-all before:duration-500 before:bg-gradient-to-r before:from-black before:via-black before:to-black hover:before:w-full hover:before:opacity-100 ">Ingresar
         </a>
-        <a href="#aboutUs" className="hover:bg-[#FFC28A] hover:text-black font-ProductSansRegular rounded-xl transition-all bg-[#1A1A1A] text-[#FDFCDC] py-3 px-5 ">
+        <a href="#membresia" className="hover:bg-[#FFC28A] hover:text-black font-ProductSansRegular rounded-xl transition-all bg-[#1A1A1A] text-[#FDFCDC] py-3 px-5 ">
           Ser miembro
         </a>
       </nav>

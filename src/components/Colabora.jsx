@@ -12,7 +12,7 @@ function Colabora() {
         </p>
       </div>
       <div className='w-1/2 md:mt-24 py-4 flex justify-center max-sm:px-10 max-sm:w-full'>
-        <img src="./src/assets/colabora.png" alt="" />
+        <img src="https://i.postimg.cc/j2NQvPVv/superwork-colabor.png" alt="Colaborá en Superwork" />
       </div>
     </div>
   )

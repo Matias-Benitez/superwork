@@ -10,11 +10,14 @@ function Membresia() {
                     Una membresía a la medida de tus necesidades
                 </div>
                 <div className='mt-12 max-sm:mt-8 max-sm:pb-8'>
-                    <Button>Ser miembro</Button>
+                    <a href="#membresia">
+                        <Button>Ser miembro</Button>
+                    </a>
+                    
                 </div>
             </div>
             <div className='w-1/2 flex justify-center mx-8 my-8 max-sm:hidden'>
-                <img src="./src/assets/membresia1.png" alt="" />
+                <img src="https://i.postimg.cc/vB4vgC3J/superwork-membresia.png" alt="Membresía a la medida en Superwork" />
             </div>
         </div>
             <div className='container mx-auto md:text-center max-sm:px-4'>
@@ -22,7 +25,7 @@ function Membresia() {
                 Superworkes es un estilo de vida <span className='text-9xl max-sm:text-5xl'>”</span>
             </h2>
             <div className='w-full h-32 flex justify-center max-sm:justify-start mt-20 mb-20 max-sm:pl-8'>
-            <img  src="./src/assets/flecha.png" alt="" />
+            <img  src="https://i.postimg.cc/W4b8jdrb/superwork-flecha.png" alt="Superwork un estilo de vida" />
             </div>
         </div>
     </>

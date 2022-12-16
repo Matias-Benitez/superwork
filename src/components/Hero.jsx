@@ -10,13 +10,14 @@ function Hero() {
                 <p className="max-sm:text-xl text-2xl mt-6 mb-6 leading-loose font-ProductSansRegular">
                     Una comunidad de freelancers y emprendedores que ampliará tus redes de contacto, facilitará tu trabajo y potenciará<br/> tu negocio.
                 </p>
-
-                <Button>
-                    Unirme ahora 
-                </Button>
+                <a href="#membresia">
+                    <Button>
+                        Unirme ahora 
+                    </Button>
+                </a>
             </div>
             <div className="max-sm:hidden max-sm:w-full max-sm:translate-x-56 max-sm:-translate-y-56 w-1/2 py-4 md:px-10 px-7">
-                <img src="./src/assets/imagen-hero.png" alt="" />
+                <img src="https://i.postimg.cc/j5B4zv1L/superwork-chat.png" alt="Chat superwork" />
             </div>
             
         </div>
