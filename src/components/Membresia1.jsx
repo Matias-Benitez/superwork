@@ -27,25 +27,25 @@ function Membresia1() {
                     <div className='container mx-auto py-4'>
                       <div className=''>
                         <div className='py-2 max-sm:py-1'>
-                          <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Diferentes canales de foro para el coworking.</span>
+                          <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Diferentes canales de foro para el coworking.</span>
                         </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Acceso a salas de reuniones virtuales.</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Acceso a salas de reuniones virtuales.</span>
                         </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Acceso a salas para networking.</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Acceso a salas para networking.</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Oportunidades laborales y de negocio.</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Oportunidades laborales y de negocio.</span>
                           </div>
                         <div className='py-1 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Workshops online</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Workshops online</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Eventos presenciales.</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Eventos presenciales.</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Visibilidad de tus servicios y proyectos.</span>
+                            <span className='text-[#F07167] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm  '>Visibilidad de tus servicios y proyectos.</span>
                           </div>
                       </div>
                     </div>
@@ -77,25 +77,25 @@ function Membresia1() {
                     <div className='container mx-auto py-4'>
                       <div className=''>
                         <div className='py-2 max-sm:py-1'>
-                          <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Diferentes canales de foro para el coworking.</span>
+                          <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Diferentes canales de foro para el coworking.</span>
                         </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Acceso a salas de reuniones virtuales.</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Acceso a salas de reuniones virtuales.</span>
                         </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Acceso a salas para networking.</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Acceso a salas para networking.</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Oportunidades laborales y de negocio.</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Oportunidades laborales y de negocio.</span>
                           </div>
                         <div className='py-1 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Workshops online</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Workshops online</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Eventos presenciales.</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Eventos presenciales.</span>
                           </div>
                         <div className='py-2 max-sm:py-1'>
-                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm'>Visibilidad de tus servicios y proyectos.</span>
+                            <span className='text-[#00AFB9] text-sm px-2'><i class="fa-solid fa-circle"></i></span><span className='font-ProductSansRegular text-lg max-sm:text-sm '>Visibilidad de tus servicios y proyectos.</span>
                           </div>
                       </div>
                     </div>

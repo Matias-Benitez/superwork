@@ -10,35 +10,34 @@ function Footer() {
         </a>
         </div>
 
-        <div className='grid md:grid-cols-4 '>
+        <div className='grid md:grid-cols-5  '>
 
-         <div className='grid'>
-            <div className='py-1 max-sm:py-1'>
+         <div className='grid 2xl:ml-20 md:ml-16'>
+            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-instagram"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Instagram</span>
-            </div>
-            <div className='py-1 max-sm:py-1'>
-              <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-square-facebook"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Facebook</span>
-            </div>
-            <div className='py-1 max-sm:py-1'>
+            </div></a>
+            
+            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-twitter"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Twitter</span>
-            </div>
-            <div className='py-1 max-sm:py-1'>
+            </div></a>
+            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-linkedin"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>LinkedIn</span>
-            </div>
+            </div></a>
+            
           </div>
 
-          <div className='grid'>
+          <div className='grid 2xl:ml-4 md:ml-2'>
             <div className='py-1 max-sm:py-6'>
               <h5 className='font-ProductSansBold text-2xl md:pb-4 max-sm:pb-2'>
                 Contacto
               </h5>
               <p className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg '>
-                soporte@superwork.com.ar
+                hola@superwork.com.ar
               </p>
             </div>
           </div>
 
-          <div className='grid'>
+          <div className='grid 2xl:justify-items-center'>
             <div className='py-1 max-sm:pb-6'>
               <h5 className='font-ProductSansBold text-2xl md:pb-4 max-sm:pb-2'>
                 Trabajá con nosotros
@@ -49,7 +48,7 @@ function Footer() {
             </div>
           </div>
 
-          <div className='grid'>
+          <div className='grid 2xl:ml-24 md:ml-16'>
             <div className='py-1 max-sm:pt-6'>
               <h5 className='font-ProductSansBold text-2xl md:pb-4 max-sm:pb-2'>
                 Ubicación
@@ -57,6 +56,17 @@ function Footer() {
               <p className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg'>
                 Buenos Aires, Argentina
               </p>
+            </div>
+          </div>
+
+          <div className='grid 2xl:ml-24 md:ml-16'>
+            <div className='max-sm:pt-6'>
+              <h5 className='font-ProductSansBold text-2xl md:pb-4 max-sm:pb-2'>
+                Descargas
+              </h5>
+              <a href="https://discord.com/download" target="_blank"><div className='max-sm:py-1'>
+              <span className='text-[#FDFCDC] text-lg pr-2'><i class="fa-brands fa-discord"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Discord</span>
+            </div></a>
             </div>
           </div>
 
