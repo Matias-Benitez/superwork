@@ -50,7 +50,7 @@ function Membresia1() {
                       </div>
                     </div>
 
-                    <div className='text-center py-5'>
+                    <div className='text-center py-5 flex justify-center'>
                       <a href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084850b39e2018510df7a1b0303" target="_blank">
                         <Button>
                           Unirme ahora
@@ -100,7 +100,7 @@ function Membresia1() {
                       </div>
                     </div>
 
-                    <div  className='text-center py-5'>
+                    <div  className='text-center py-5 flex justify-center'>
                       <a href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=2c938084850b39e2018510eab4990308" target="_blank">
                         <Button>
                           Unirme ahora

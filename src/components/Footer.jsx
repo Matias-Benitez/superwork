@@ -13,14 +13,14 @@ function Footer() {
         <div className='grid md:grid-cols-5  '>
 
          <div className='grid 2xl:ml-20 md:ml-16'>
-            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
+            <a href="https://www.instagram.com/superwork.ar/" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-instagram"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Instagram</span>
             </div></a>
             
-            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
+            <a href="https://twitter.com/Superwork_" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-twitter"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>Twitter</span>
             </div></a>
-            <a href="" target="_blank"><div className='py-1 max-sm:py-1'>
+            <a href="https://www.linkedin.com/company/superwork-ar/" target="_blank"><div className='py-1 max-sm:py-1'>
               <span className='text-[#FDFCDC] text-lg px-2'><i class="fa-brands fa-linkedin"></i></span><span className='font-ProductSansRegular text-sm max-sm:text-lg 2xl:text-lg align-middle'>LinkedIn</span>
             </div></a>
             
